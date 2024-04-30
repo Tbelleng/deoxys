@@ -2,6 +2,10 @@ git # Deoxys Changelog
 
 ## Next release
 
+<<<<<<< HEAD
+=======
+- fix(db): with new implementation ContractStorage
+>>>>>>> d54ea42efbece10c3733b04e3ee99a7ace80cf6f
 - fix: fee_type for `simulate_transactions` rpc call
 - feat(rocksdb): replaced most async database operations iwth multigets and batched inserts
 - fix: get_state_update with new storage
